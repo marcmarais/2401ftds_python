@@ -79,3 +79,10 @@ pip install -r requirements.txt
 | James Beta                                                                                  | jbeta@sandtech.com
 | Oladare Adekunle                                                                            | oadekunle@sandtech.com
 | [Ereshia Gabier](https://github.com/ereshia)                                                | egabier@sandtech.com
+
+
+
+#### Additional Resources to create a README file:
+- [Make a README](https://www.makeareadme.com/)
+- [GitHub Docs](https://docs.github.com/en/repositories/managing-your-repositorys-settings-and-features/customizing-your-repository/about-readmes)
+- [FreeCodeCamp](https://www.freecodecamp.org/news/how-to-write-a-good-readme-file/)
