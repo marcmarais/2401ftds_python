@@ -9,10 +9,12 @@
 ---
 
 ## Table of contents
-* [General info](#project-description)
-* [Datasets](#dataset)
-* [Packages](#packages)
-* [Environment](#environment)
+* [1. General info](#project-description)
+* [2. Datasets](#dataset)
+* [3. Packages](#packages)
+* [4. Environment](#environment)
+* [5. Team Members](#team-members)
+
 
 
 ## 1. General info <a class="anchor" id="project-description"></a>
@@ -69,3 +71,10 @@ source .venv/bin/activate
 pip install -r requirements.txt
 ```
 
+## 5. Team Members<a class="anchor" id="team-members"></a>
+
+| Name                                                                                        |  Email              
+|---------------------------------------------------------------------------------------------|--------------------             | [Marc Marais](https://github.com/marcmarais)                                                | mmarias@sandtech.com
+| James Beta                                                                                  | jbeta@sandtech.com
+| Oladare Adekunle                                                                            | oadekunle@sandtech.com
+| [Ereshia Gabier](https://github.com/ereshia)                                                | egabier@sandtech.com
