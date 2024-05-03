@@ -34,7 +34,7 @@ Projects are categorized under machine learning and consequently adhere to a Dat
 The datasets used in this repo can be found [here]().
 
 
-## 3. Packages <a class="anchor" id="pacakages"></a>
+## 3. Packages <a class="anchor" id="packages"></a>
 
 In order to carry out all the objectives for this repo, the following necessary dependencies were loaded:
 + `Pandas 2.2.2` and `Numpy 1.26`
@@ -74,7 +74,8 @@ pip install -r requirements.txt
 ## 5. Team Members<a class="anchor" id="team-members"></a>
 
 | Name                                                                                        |  Email              
-|---------------------------------------------------------------------------------------------|--------------------             | [Marc Marais](https://github.com/marcmarais)                                                | mmarias@sandtech.com
+|---------------------------------------------------------------------------------------------|--------------------             
+| [Marc Marais](https://github.com/marcmarais)                                                | mmarias@sandtech.com
 | James Beta                                                                                  | jbeta@sandtech.com
 | Oladare Adekunle                                                                            | oadekunle@sandtech.com
 | [Ereshia Gabier](https://github.com/ereshia)                                                | egabier@sandtech.com
