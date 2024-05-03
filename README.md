@@ -36,7 +36,7 @@ The datasets used in this repo can be found [here]().
 
 ## 3. Packages <a class="anchor" id="packages"></a>
 
-In order to carry out all the objectives for this repo, the following necessary dependencies were loaded:
+To carry out all the objectives for this repo, the following necessary dependencies were loaded:
 + `Pandas 2.2.2` and `Numpy 1.26`
 + `Matplotlib 3.8.4`
  
