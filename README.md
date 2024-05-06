@@ -76,8 +76,8 @@ pip install -r requirements.txt
 | Name                                                                                        |  Email              
 |---------------------------------------------------------------------------------------------|--------------------             
 | [Marc Marais](https://github.com/marcmarais)                                                | mmarias@sandtech.com
-| James Beta                                                                                  | jbeta@sandtech.com
-| Oladare Adekunle                                                                            | oadekunle@sandtech.com
+| [James Beta](https://github.com/James-Beta)                                                 | jbeta@sandtech.com
+| [Oladare Adekunle](https://github.com/DareSandtech)                                         | oadekunle@sandtech.com
 | [Ereshia Gabier](https://github.com/ereshia)                                                | egabier@sandtech.com
 
 
